@@ -11621,6 +11621,11 @@
           "label": "",
           "uf": null,
           "url": "https://www.ipvabr.com.br/placa"
+        },
+        {
+          "label": "",
+          "uf": null,
+          "url": "https://www.consultarplacas.com"
         }
       ],
       "nome": "Consulta de Dados via Placa",

@@ -16394,6 +16394,24 @@
       "categoria": "Consulta de Transporte Terrestre",
       "categoria_id": "consulta-de-transporte-terrestre",
       "descricao": "",
+      "fonte": "Consulta de Dados via Placa",
+      "fonte_id": "consulta-de-transporte-terrestre/consulta-de-dados-via-placa",
+      "input": [
+        "placa",
+        "renavam"
+      ],
+      "label": "",
+      "output": [
+        "veiculo"
+      ],
+      "tipo_fonte": "privado",
+      "uf": null,
+      "url": "https://www.consultarplacas.com"
+    },
+    {
+      "categoria": "Consulta de Transporte Terrestre",
+      "categoria_id": "consulta-de-transporte-terrestre",
+      "descricao": "",
       "fonte": "Consulta de Dados FIPE",
       "fonte_id": "consulta-de-transporte-terrestre/consulta-de-dados-fipe",
       "input": [
@@ -23648,5 +23666,5 @@
       "url": "https://dominiosgovbr.sisp.gov.br/dados/dominios_gov_br.csv"
     }
   ],
-  "total": 1266
+  "total": 1267
 }

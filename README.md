@@ -3407,6 +3407,7 @@ Serviço online que permite a qualquer pessoa verificar se uma bicicleta tem his
 - https://placaipva.com.br
 - https://www.tabelafipebrasil.com/placa
 - https://www.ipvabr.com.br/placa
+- https://www.consultarplacas.com
 </details>
 
 ### Consulta de Dados FIPE
